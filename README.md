@@ -21,4 +21,4 @@
 
 ## ✨ Sobre mim:
 
-   Estou iniciando nesse mundo da programação - não sei como, exatamente fui parar aqui, mas até que estou gostando - amo poder usar a criatividade para programar e criar códigos que sejam úteis e auxiliem nas tarefas do cotidiano.
+   Estou iniciando nesse mundo da programação - não sei exatamente como fui parar aqui, mas até que estou gostando - amo poder usar a criatividade para programar e criar códigos que sejam úteis e auxiliem nas tarefas do cotidiano.
