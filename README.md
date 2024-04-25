@@ -6,11 +6,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ol%C3%ADvia-helena-2026912a5/)
 
 ![Olívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliviaHelena10&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaHelena10&hide_progress=true&theme=synthwave)
 
 ## 🎓 Formação:
 
 * 📚 ADS no IFSP - Instituto Federal de Ciência e Tecnologia (cursando - 1º semestre)
-* 💻 Python 3 do básico ao avançado  na Udemy (cursando)
+* 🐍 Python 3 do básico ao avançado  na Udemy (cursando)
+* 🔥 Certificação AWS pelo Santader Bootcamp com a DIO (cursando)
+* 💻 HCIP - Cloud Service Solutions Archtect na HuaWei (cursando)
+* 🚀 Fundamentos da Linguagem Python para Análise de Dados e Data Sciente pela DataScience Academy (cursando)
 
 ## 👩🏻‍💻 Tecnologias que estou aprendendo:
 <div style="display: inline_block"><br/>
