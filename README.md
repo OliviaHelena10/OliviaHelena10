@@ -40,5 +40,4 @@
 ## ✨ Sobre mim:
    Estou iniciando nesse mundo da programação, ainda conhecendo as diversas áreas da TI, mas já posso dizer que sou apaixonada pela área de dados amo poder usar a criatividade para programar e criar códigos que sejam úteis e auxiliem nas tarefas do cotidiano.
 
- ![octocat-1714060666154](https://github.com/OliviaHelena10/OliviaHelena10/assets/163002226/b7cefc66-ccff-4774-9592-66002c051c13 )
 
