@@ -38,6 +38,6 @@
 
 
 ## ✨ Sobre mim:
-   Estou iniciando nesse mundo da programação, ainda conhecendo as diversas áreas da TI, mas já posso dizer que sou apaixonada pela área de dados amo poder usar a criatividade para programar e criar códigos que sejam úteis e auxiliem nas tarefas do cotidiano.
+   Estou iniciando nesse mundo da programação, ainda conhecendo as diversas áreas da TI, mas já posso dizer que sou apaixonada pela área de dados! Amo poder usar a criatividade para programar, criar códigos que sejam úteis e auxiliem nas tarefas do cotidiano.
 
 
