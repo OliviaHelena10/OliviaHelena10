@@ -19,7 +19,7 @@
 
 * 📚 ADS no IFSP - Instituto Federal de Ciência e Tecnologia (cursando - 1º semestre)
 * 🐍 Python 3 do básico ao avançado  na Udemy (cursando)
-* 🔥 Certificação AWS pelo Santader Bootcamp com a DIO (cursando)
+* 🔥 Preparatório para Certificação AWS pelo Santader Bootcamp com a DIO
 * 💻 HCIP - Cloud Service Solutions Archtect na HuaWei (cursando)
 * 🚀 Fundamentos da Linguagem Python para Análise de Dados e Data Sciente pela DataScience Academy (cursando)
 
