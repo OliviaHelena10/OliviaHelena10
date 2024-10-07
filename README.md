@@ -44,15 +44,13 @@
 
 
 ## ✨ Sobre mim:
-  Sou uma pessoa introvertida que, ao encontrar pessoas e ambientes com os quais me conecto, não para de falar. Tenho uma grande paixão por todos os tipos de arte, com um carinho especial pelo teatro e pela escultura. Sou uma leitora assídua, especialmente de aventuras, fantasias e livros que me ensinem algo novo. Atualmente, estou lendo "Storytelling com Dados", um livro que transformou completamente minha visão sobre gráficos e visualização de informações.
+  Sou uma pessoa introvertida que, ao encontrar pessoas e ambientes com os quais me conecto, não para de falar. Tenho uma grande paixão por todos os tipos de arte, com um carinho especial pelo teatro e pela escultura. Sou uma leitora assídua, especialmente de aventuras, fantasias e livros que me ensinem algo novo. Atualmente, estou lendo "Storytelling com Dados", um livro que transformou completamente minha visão sobre gráficos e visualização de informações, além de outros livros como: "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow: Conceitos, Ferramentas e Técnicas Para a Construção de Sistemas Inteligentes" e "SQL Para Análise de Dados: Técnicas Avançadas Para Transformar Dados em Insights" essenciais para qualquer profissional da área de dados.
   
-  Em 2024, comecei a explorar o mundo da programação, e logo após iniciar minha graduação em Ciência da Computação, descobri a vasta gama de oportunidades que a tecnologia pode proporcionar. Entre essas áreas, foi a ciência de dados que realmente capturou meu interesse, e desde então tenho me dedicado ao estudo e desenvolvimento de habilidades nessa área.
+  Em 2024, comecei a explorar o mundo da programação, e logo após iniciar minha faculdade em Análise e Desenvolvimento de Sistemas, descobri a vastidão de oportunidades que a tecnologia pode proporcionar. Entre essas áreas, foi a ciência de dados que realmente capturou meu interesse, e desde então tenho me dedicado ao estudo e desenvolvimento de habilidades nessa área.
   
   Atualmente, estou focada em análise e ciência de dados, com competências em:
-  * Limpeza, modelagem e transformação de datasets utilizando SQL, Excel e, principalmente, Python.
-  * Criação de visualizações de dados eficientes e informativas com Power BI e bibliotecas Python (Matplotlib, Seaborn, Plotly), sempre priorizando a clareza e objetividade.
-  * Desenvolvimento de modelos de machine learning, com experiência em bibliotecas como Keras, TensorFlow, e Scikit-Learn.
+  * Limpeza, modelagem e transformação de dados utilizando SQL, e principalmente, Python.
+  * Criação de visualizações de dados eficientes e informativas com Power BI e Python (Matplotlib, Seaborn, Plotly), sempre priorizando a clareza e objetividade.
+  * Desenvolvimento de modelos de machine learning, com experiência em bibliotecas como Scikit-Learn, Keras e TensorFlow.
 
-  Além do meu interesse técnico, sou apaixonada por teatro, uma arte que pratico há quase 11 anos. Essa experiência aprimorou minha capacidade de comunicação, apresentação e improvisação — habilidades essenciais na hora de transmitir insights de dados de forma clara e envolvente. Acredito que minha vivência no teatro, aliada ao meu conhecimento técnico, me torna uma profissional capaz de trabalhar em equipe, comunicar-me de maneira eficaz e lidar com desafios de forma criativa e proativa.
-
-
+  Além do meu interesse técnico, sou apaixonada por teatro, uma arte que pratico há quase 11 anos. Essa experiência aprimorou minha capacidade de comunicação, apresentação e improviso — habilidades essenciais na hora de transmitir insights de dados de forma clara. Acredito que minha vivência no teatro, aliada ao meu conhecimento técnico, me torna uma profissional capaz de trabalhar em equipe, comunicar-me de maneira eficaz e lidar com desafios de forma criativa.
