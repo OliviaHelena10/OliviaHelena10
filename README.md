@@ -1,56 +1,103 @@
-
 ### Oiii! Eu sou a Olívia ✌️
 
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ol%C3%ADvia-helena-2026912a5/)
 
+---
 
 ## 🐙 Meu GitHub
 ![Olívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliviaHelena10&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliviaHelena10&hide_progress=true&theme=synthwave)
 
+---
 
 ## 🎯 Objetivo
-  Atuar na área de dados como estagiária ou júnior.
+Atuar na área de dados e IA como Analista de Dados / Cientista de Dados Júnior, com foco em construção de pipelines, análise exploratória e desenvolvimento de soluções escaláveis.
 
+---
 
-## 🎓 Formação:
+## 💼 Experiência
 
-* 📚 ADS no IFSP - Instituto Federal de Ciência e Tecnologia (cursando - 2º semestre);
-* 🐍 Python 3 do básico ao avançado  na Udemy (cursando);
-* 🔥 Bootcamp preparatório para Certificação AWS na DIO;
-* 🌌 Bootcamp de Data Science na Ada Tech;
-* 🚀 Data Analytics com Power BI na DIO.
+**Estagiária de TI / Dados - B3** 
 
-  
-## 🎓 Idiomas:
+- Atuação com governança de dados, garantindo qualidade, padronização e consistência das informações  
+- Criação e manutenção de planilhas e controles para acompanhamento de dados e processos  
+- Desenvolvimento de scripts em Python para limpeza, tratamento e organização de dados  
+- Construção de dashboards e análises no Tableau para apoio à tomada de decisão  
+- Automação de fluxos e tarefas operacionais com Power Automate  
+- Comunicação com áreas de negócio e acompanhamento de correções junto a analistas  
 
-* Inglês nível intermediário/avançado - ênfase em fala e escuta.
-* Mandarim nível introdutório - apenas por diversão.
-* Espanhol nível introdutório - apenas por curiosidade.
-  
+---
 
-## 👩🏻‍💻   Ferramentas:
+## 🎓 Formação
+
+* 📚 Análise e Desenvolvimento de Sistemas - IFSP (cursando - 5º semestre)  
+* 🐍 Python 3 do básico ao avançado - Udemy  
+* 🔥 Bootcamp preparatório para Certificação AWS - DIO  
+* 🌌 Bootcamp de Data Science - Ada Tech  
+* 🚀 Data Analytics com Power BI - DIO  
+
+---
+
+## 🌍 Idiomas
+
+* Inglês intermediário/avançado (ênfase em conversação e escuta)  
+* Mandarim básico (interesse pessoal)  
+* Espanhol básico  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" alt="pyspark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img align="center" alt="sklearn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img align="center" alt="keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img align="center" alt="plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+</div>
 
-<br/>
+---
 
+## 🚀 Principais Competências
 
-
-## ✨ Sobre mim:
-  Sou uma pessoa introvertida que, ao encontrar pessoas e ambientes com os quais me conecto, não para de falar. Tenho uma grande paixão por todos os tipos de arte, com um carinho especial pelo teatro e pela escultura. Sou uma leitora assídua, especialmente de aventuras, fantasias e livros que me ensinem algo novo. Atualmente, estou lendo "Storytelling com Dados", um livro que transformou completamente minha visão sobre gráficos e visualização de informações, além de outros livros como: "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow: Conceitos, Ferramentas e Técnicas Para a Construção de Sistemas Inteligentes" e "SQL Para Análise de Dados: Técnicas Avançadas Para Transformar Dados em Insights" essenciais para qualquer profissional da área de dados.
+- Construção de pipelines de dados (ETL/ELT)  
+- Processamento de dados com PySpark  
+- Análise e manipulação de dados com Python (Pandas, NumPy)  
+- Desenvolvimento de dashboards (Power BI, Tableau)  
+- Automação de processos (Python, Power Automate, n8n)  
+- Governança e qualidade de dados  
+- Desenvolvimento de modelos de Machine Learning  
+- Containerização com Docker  
+- Integração com serviços cloud (AWS)
   
-  Em 2024, comecei a explorar o mundo da programação, e logo após iniciar minha faculdade em Análise e Desenvolvimento de Sistemas, descobri a vastidão de oportunidades que a tecnologia pode proporcionar. Entre essas áreas, foi a ciência de dados que realmente capturou meu interesse, e desde então tenho me dedicado ao estudo e desenvolvimento de habilidades nessa área.
-  
-  Atualmente, estou focada em análise e ciência de dados, com competências em:
-  * Limpeza, modelagem e transformação de dados utilizando SQL, e principalmente, Python.
-  * Criação de visualizações de dados eficientes e informativas com Power BI e Python (Matplotlib, Seaborn, Plotly), sempre priorizando a clareza e objetividade.
-  * Desenvolvimento de modelos de machine learning, com experiência em bibliotecas como Scikit-Learn, Keras e TensorFlow.
+---
 
-  Além do meu interesse técnico, sou apaixonada por teatro, uma arte que pratico há quase 11 anos. Essa experiência aprimorou minha capacidade de comunicação, apresentação e improviso — habilidades essenciais na hora de transmitir insights de dados de forma clara. Acredito que minha vivência no teatro, aliada ao meu conhecimento técnico, me torna uma profissional capaz de trabalhar em equipe, comunicar-me de maneira eficaz e lidar com desafios de forma criativa.
+## ✨ Sobre mim
+
+Sou uma pessoa introvertida que se comunica com clareza e profundidade em ambientes colaborativos. Tenho grande interesse por arte — especialmente teatro — e utilizo essa experiência para fortalecer minha comunicação e storytelling com dados.
+
+Atualmente, estou direcionando minha carreira para dados e inteligência artificial, com foco em evoluir de análises para construção de pipelines, automações e soluções escaláveis em ambientes de dados.
+
+Tenho interesse especial em:
+
+- Engenharia de dados  
+- Machine Learning aplicado  
+- Automação e integração de sistemas  
+- Projetos com dados em larga escala  
+
+---
+
+📚 Leituras recentes incluem:
+- The Hundred Page Machine Learnin Book 
+- Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow  
+- O lado Difícil das Situações Dificeis
+
+---
